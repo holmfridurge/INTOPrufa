@@ -34,7 +34,6 @@ int main( )
 	int val;
 	
 	cout << "Holmfridur Gudlaug Einarsdottir"
-	
 	do
 	{
 		cout << endl << endl << endl;
