@@ -33,6 +33,7 @@ int main( )
 {
 	int val;
 	cout << "Holmfridur Gudlaug Einarsdottir"
+	cout << "My first git project"
 	do
 	{
 		cout << endl << endl << endl;
