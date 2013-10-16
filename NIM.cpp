@@ -32,7 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	int val;
-	cout << "frida";
+	cout << "Holmfridur Gudlaug Einarsdottir"
 	do
 	{
 		cout << endl << endl << endl;
